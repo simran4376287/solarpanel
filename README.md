@@ -22,7 +22,7 @@ Customization: Here’s where you personalize the chatbot. Depending on the sele
 
 Deployment: Once setup is complete, deploy your chatbot by simply clicking the create button. Deployment usually takes a couple of minutes. After this, your chatbot will be up and running and ready to interact.
 
-Customization Example To make your chatbot truly unique, consider personalizing it extensively. For instance, if you choose a 'Solar System Sustainability Advisor' role:
+Customization Example To make your chatbot truly unique, consider personalizing it extensively. For instance, if you choose a 'Solar Panel Installation and MaintenanceAdviso Advisor' role:
 
 Modify the system messages to include tips on optimizing solar energy usage, maintenance schedules for solar panels, and advice on sustainable energy practices. Program the chatbot to suggest energy-saving techniques, recommend eco-friendly products, and provide information on the benefits of solar energy. Explore different roles and tweak the system instructions to discover the full potential of your chatbot. Don’t forget to share your creations and experiences, as your insights could inspire others in their chatbot development.
 
